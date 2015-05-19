@@ -16,3 +16,5 @@ import Image
 from pytesseract import image_to_string
 print image_to_string(Image.open('test.png'))
 
+This code is copywrited by David Johnston of ThoughtWorks
+the image data include is not under copywrite of David Johnston
